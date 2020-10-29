@@ -1,7 +1,7 @@
 # Nativescript badge
 
 ```javascript
-ns plugin add @qlip/badge
+ns plugin add @qlip/nativescript-badge
 ```
 
 ## Usage

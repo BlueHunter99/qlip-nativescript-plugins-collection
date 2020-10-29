@@ -1,5 +1,5 @@
 {
-  "name": "@qlip/checkbox",
+  "name": "@qlip/nativescript-checkbox",
   "version": "1.0.0",
   "description": "NS7-compatible Checkbox",
   "main": "index",

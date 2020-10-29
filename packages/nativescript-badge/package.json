@@ -1,5 +1,5 @@
 {
-	"name": "@qlip/badge",
+	"name": "@qlip/nativescript-badge",
 	"version": "1.0.0",
 	"description": "Add a plugin description",
 	"main": "index",

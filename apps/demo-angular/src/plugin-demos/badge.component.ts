@@ -1,6 +1,6 @@
 import { Component, NgZone } from '@angular/core';
 import { DemoSharedBadge } from '@demo/shared';
-import {} from '@qlip/badge';
+import {} from '@qlip/nativescript-badge';
 
 @Component({
 	selector: 'demo-badge',

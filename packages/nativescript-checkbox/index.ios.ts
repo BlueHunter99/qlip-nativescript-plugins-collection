@@ -1,6 +1,8 @@
 import { booleanConverter, Button, Color, CssProperty, Property, Style } from '@nativescript/core';
 import { BoxType } from './common';
-import { CheckBoxInterface } from './index';
+import { CheckBoxInterface } from './common';
+
+export * from './common';
 
 const checkBoxBackgroundColorProperty = new CssProperty<Style, string>({
 	name: 'checkBoxBackgroundColor',
