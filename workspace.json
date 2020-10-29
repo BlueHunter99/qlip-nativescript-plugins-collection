@@ -130,7 +130,7 @@
 				}
 			}
 		},
-		"badge": {
+		"nativescript-badge": {
 			"root": "packages/nativescript-badge",
 			"sourceRoot": "packages/nativescript-badge",
 			"projectType": "library",
@@ -140,7 +140,7 @@
 					"builder": "@nrwl/node:package",
 					"options": {
 						"outputPath": "dist/packages/nativescript-badge",
-						"tsConfig": "packages/badge/tsconfig.json",
+						"tsConfig": "packages/nativescript-badge/tsconfig.json",
 						"packageJson": "packages/nativescript-badge/package.json",
 						"main": "packages/nativescript-badge/index.ts",
 						"assets": [
